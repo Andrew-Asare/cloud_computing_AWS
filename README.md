@@ -28,3 +28,4 @@
 - Groupname, my name, what is being spun up
 - Eng84_name_app 
 - Security group works like a firewall, eng_84_app_sg (sg for security group)
+![image](https://user-images.githubusercontent.com/26543682/115543246-0d31de00-a299-11eb-888a-917916b25970.png)
