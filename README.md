@@ -27,3 +27,4 @@
 ## Naming convention
 - Groupname, my name, what is being spun up
 - Eng84_name_app 
+- Security group works like a firewall, eng_84_app_sg (sg for security group)
