@@ -29,3 +29,6 @@
 - Eng84_name_app 
 - Security group works like a firewall, eng_84_app_sg (sg for security group)
 ![image](https://user-images.githubusercontent.com/26543682/115543246-0d31de00-a299-11eb-888a-917916b25970.png)
+
+## EC2
+- Amazon Elastic Compute Cloud (EC2) is a part of Amazon.com's cloud-computing platform, Amazon Web Services (AWS), that allows users to rent virtual computers on which to run their own computer applications.
