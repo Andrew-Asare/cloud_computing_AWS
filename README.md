@@ -23,3 +23,7 @@
 - Twitch
 - Linkedin
 - Facebook
+
+## Naming convention
+- Groupname, my name, what is being spun up
+- Eng84_name_app 
