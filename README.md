@@ -32,3 +32,5 @@
 
 ## EC2
 - Amazon Elastic Compute Cloud (EC2) is a part of Amazon.com's cloud-computing platform, Amazon Web Services (AWS), that allows users to rent virtual computers on which to run their own computer applications.
+
+https://aws.amazon.com/about-aws/global-infrastructure/regions_az/
